@@ -1,16 +1,16 @@
-# ng-textbox-autosize
+# ng4-textbox-autosize
 An autosizing directive for textarea elements in Angular 4+ applications
 
 ## Installation:
 
 ```bash
-npm install ng-textbox-autosize
+npm install ng4-textbox-autosize
 ```
 
 Add declaration to @NgModule:
 
 ```typescript
-import {AutosizeDirective} from 'ng-textbox-autosize';
+import {AutosizeDirective} from 'ng4-textbox-autosize';
 
 ...
 
