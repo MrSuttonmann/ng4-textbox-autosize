@@ -1,5 +1,5 @@
 {
-  "name": "ng-textbox-autosize",
+  "name": "ng4-textbox-autosize",
   "version": "1.0.0",
   "description": "Angular Directive to automatically resize textarea to fit content to an optional minimum/maximum height.",
   "repository": {
