@@ -42,3 +42,11 @@ Or both:
 ```
 <textarea autosize [minHeight]="60" [maxHeight]="120">Hello, this is an example of Autosize in Angular2 with a Max Height.</textarea>
 ```
+
+## Author
+
+[James Hyde](https://github.com/plinkpaste)
+
+## Licence
+
+This project is licenced under the MIT licence. See the [LICENSE](LICENSE) file for more info.
