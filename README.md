@@ -32,15 +32,15 @@ Use directly inside your HTML templates by adding the word 'autosize' to any tex
 Set either a minimum height:
 
 ```
-<textarea autosize [minHeight]="60">Hello, this is an example of Autosize in Angular2 with a Min Height.</textarea>
+<textarea autosize [minHeight]="60">Textarea content blah blah</textarea>
 ```
 A maximum height:
 ```
-<textarea autosize [maxHeight]="120">Hello, this is an example of Autosize in Angular2 with a Max Height.</textarea>
+<textarea autosize [maxHeight]="120">Textarea content blah blah</textarea>
 ```
 Or both:
 ```
-<textarea autosize [minHeight]="60" [maxHeight]="120">Hello, this is an example of Autosize in Angular2 with a Max Height.</textarea>
+<textarea autosize [minHeight]="60" [maxHeight]="120">Textarea content blah blah</textarea>
 ```
 
 ## Author
